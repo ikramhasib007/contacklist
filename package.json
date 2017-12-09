@@ -1,0 +1,26 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "A simple MEAN Stack CRDU Operation project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikramhasib007/contactlist.git"
+  },
+  "author": "Ikram Hasib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikramhasib007/contactlist/issues"
+  },
+  "homepage": "https://github.com/ikramhasib007/contactlist#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6"
+  }
+}
